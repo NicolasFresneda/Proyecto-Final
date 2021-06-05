@@ -1,4 +1,8 @@
 {
+  "compilerOptions": {
+    "experimentalDecorators": true
+  },
+ 
   "include": [
     "*.js",
     "libraries/*.js",
